@@ -1,0 +1,18 @@
+{
+  "name": "asincronismojs",
+  "version": "1.0.0",
+  "description": "Primer curso de asincronismo con JS",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "javascript",
+    "asincronismo"
+  ],
+  "author": "Vamkay",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
